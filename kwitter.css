@@ -1,0 +1,25 @@
+body{
+    background-color: orange;
+
+}
+
+ .login_div1{
+    background: yellowgreen;
+    padding: 30px;
+		float: none;
+		border-radius: 15px;
+        font-size: 50;
+     }
+
+     #adduser{
+        height: 9%;
+        width: 9%;
+        font-size: larger;
+        background-color: aqua;
+     }
+
+     #user_name{
+        height: 9%;
+        font-size: large;
+     }
+
